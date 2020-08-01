@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I am a freelance front end developer, interested in ui/ux design. Feel free to [check out my website](https://meszarosdezso.com) and contact me about anything. Seriously anything I am fckn lonely. 
+I am a freelance front end developer, interested in ui/ux design. Feel free to [check out my website](https://meszarosdezso.com) and contact me about anything. 
 
 **plur**
 
